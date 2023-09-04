@@ -1,12 +1,3 @@
-'''
-Answer for Question 7 - PIAT: The Hunt
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 import random
 import q1
 import train
