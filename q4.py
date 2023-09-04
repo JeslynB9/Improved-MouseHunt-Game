@@ -1,12 +1,3 @@
-'''
-Answer for Question 4 - The Training
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 trap = ('High Strain Steel Trap', 'Hot Tub Trap', 'Cardboard and Hook Trap')
 picked_trap = None
 cheddar = 0
