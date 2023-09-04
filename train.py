@@ -1,12 +1,3 @@
-'''
-Answer for Question 5 - The Training Again
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 import q4
 gold = 125
 
