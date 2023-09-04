@@ -1,13 +1,3 @@
-'''
-Answer for Question 3 - Function
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
-
 def is_valid_length(name: str) -> bool:
     if len(name) >= 1 and len(name) <= 9:
         return True
