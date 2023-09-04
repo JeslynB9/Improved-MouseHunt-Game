@@ -1,0 +1,21 @@
+Start game
+Start shop
+Bought 10 cheddar
+End shop
+Start hunt
+Nothing happens.
+Do nothing.
+Do nothing.
+Caught a Brown mouse!
+Nothing happens.
+Nothing happens.
+Nothing happens.
+Nothing happens.
+Nothing happens.
+Caught a Brown mouse!
+Nothing happens.
+Nothing happens.
+Nothing happens. You are out of cheese!
+Nothing happens. You are out of cheese!
+End hunt
+End game
