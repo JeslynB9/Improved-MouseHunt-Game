@@ -1,13 +1,3 @@
-'''
-Write your solution for Question 1 and Question 2 here.
-You may add additional functions but the existing functions given in the scaffold must exists.
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 import io
 import os
 import sys
