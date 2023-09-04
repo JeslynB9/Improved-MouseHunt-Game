@@ -1,17 +1,3 @@
-'''
-We will use the art by Joan Stark as the logo:
-           _____()()
-          /      @@
-    `~~~~~\_;m__m._>o
-
-Answer for Question 1 - Game Title
-
-Name: 
-SID: 
-unikey: 
-
-'''
-
 title = 'Mousehunt'
 
 logo = '''
