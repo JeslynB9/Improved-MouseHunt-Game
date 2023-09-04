@@ -1,0 +1,4 @@
+Start game
+Start shop
+End shop
+End game
