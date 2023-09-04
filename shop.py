@@ -1,12 +1,3 @@
-'''
-Answer for Question 6 - PIAT: The Cheese Shop
-
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-unikey: jbow2146
-
-'''
-
 from q4 import setup_trap
 
 
